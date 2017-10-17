@@ -1,0 +1,5 @@
+﻿  소스.cpp
+d:\3-2 과제 자료들\넷플과제 (3)\클1\nwfclient1\소스.cpp(338): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: 'inet_addr' 선언을 참조하십시오.
+  NWFClient1.vcxproj -> D:\3-2 과제 자료들\넷플과제 (3)\클1\NWFClient1\Debug\NWFClient1.exe
+  NWFClient1.vcxproj -> D:\3-2 과제 자료들\넷플과제 (3)\클1\NWFClient1\Debug\NWFClient1.pdb (Full PDB)
